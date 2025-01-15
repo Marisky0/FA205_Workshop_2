@@ -1,5 +1,7 @@
 # FA205_Workshop_2
-In this workshop we learned about time intervals and recursive functions. I then used this new knowledge to add to my previous ghost sketch so I can control the timing of the ghosts. 
+In this workshop we learned about time intervals and recursive functions. I then used this new knowledge to add to my previous ghost sketch so I could control the timing of the ghosts. 
+
+URL  https://marisky0.github.io/FA205_Workshop_2/
 
 ## Notes 
 <img width="692" alt="Screenshot 2025-01-16 at 11 19 51 AM" src="https://github.com/user-attachments/assets/a970fd5a-fd6d-4fde-8d3c-9d489d08341f" />
