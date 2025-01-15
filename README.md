@@ -14,6 +14,7 @@ In this workshop we learned about time intervals and recursive functions. I then
 I was able to successfully add the time interval into my previous sketch but I ran into a slight problem. 
 <img width="675" alt="Screenshot 2025-01-16 at 11 23 51 AM" src="https://github.com/user-attachments/assets/f3207d28-1ac4-4c77-ac2e-85017e6b53bc" />
 <img width="631" alt="Screenshot 2025-01-16 at 11 24 32 AM" src="https://github.com/user-attachments/assets/9d314603-3ed2-45a7-addf-0bbee0237c79" />
+
 In the future I'm going to try more complex ideas, perhaps I can see how I can control the timming of different objects so that they appear at different times. 
 
 
